@@ -6,9 +6,9 @@
 
 -   Redes Sociais:
 
--   *LinKedln:* https://www.linkedin.com/in/guilherme-gouvea-b56007144/
+    *LinKedln:* https://www.linkedin.com/in/guilherme-gouvea-b56007144/
 
--   Instagram https://www.instagram.com/g._gouvea518/
+    *Instagram* https://www.instagram.com/g._gouvea518/
 
    ![Muito obrigado!](https://github.com/guilhermegouvea518/guilhermegouvea518/assets/139186184/5136d49d-6ff9-413e-9633-36fe8532cd76)
 
