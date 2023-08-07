@@ -1,8 +1,6 @@
 # Olá 👋 eu sou Guilherme Gouvêa 
 ---
--  Estou estudando para virar um progrmador profissional de back end 
-
--   Atualmente estou fazendo um curso de Git e GitHub no cruso em vídeo
+-  Estou estudando para virar um Dev web 
 
 -   Redes Sociais:
 
